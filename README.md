@@ -1,1 +1,1 @@
-# TLU-confessions
+# vmo-confession
